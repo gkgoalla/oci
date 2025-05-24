@@ -1,2 +1,2 @@
 # OCI
-Assets developed by GK Goalla for Oracle Public Cloud
+Assets developed by GK Goalla
